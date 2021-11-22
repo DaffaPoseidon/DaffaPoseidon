@@ -16,5 +16,5 @@ Game Dev Enthusiast.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="daffa:poseidon.ndap.cahyo@gmail.com"><img src="https://img.shields.io/badge/-aikatan.aikachan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="daffa:poseidon.ndap.cahyo@gmail.com"><img src="https://img.shields.io/badge/-daffaposeidon.ndap.cahyo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
